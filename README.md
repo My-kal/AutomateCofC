@@ -1,5 +1,5 @@
 # Automate CofC
-AutomateCofC will email/text you  when there are openings in courses.
+AutomateCofC will email/text you when there are openings in courses.
 
 ### Dependencies
 Python 3.5
