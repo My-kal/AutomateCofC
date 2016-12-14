@@ -40,7 +40,7 @@ def main():
     # main page
     url = base_url + '/prod/bwckschd.p_disp_dyn_sched'
     r = session.get(url)
-    # sleep()
+    sleep()
     
     # get term
     p_term = ''
@@ -84,7 +84,7 @@ def main():
         'sel_sess': ['dummy', '%'],
         'sel_subj': ['dummy', sub],
         'sel_title': '',
-        'term_in': '201720'
+        'term_in': p_term
     }
     r = session.post(url, data=payload)
     sleep()
