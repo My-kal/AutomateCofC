@@ -1,4 +1,4 @@
- # Automate CofC
+# Automate CofC
 AutomateCofC will email/text you  when there are openings in courses.
 
 ### Dependencies
