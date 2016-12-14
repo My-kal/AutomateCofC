@@ -1,0 +1,14 @@
+{
+    "term": "2017 Spring",
+    "subject": "CSCI",
+    "course_num": "221",
+    "crns": "21219, 20298",
+    "sending": {
+        "email": "test@gmail.com",
+        "password": "test_pass"
+    },
+    "receiving": {
+        "email": "test@gmail.com",
+        "password": "test_pass"
+    }
+}
