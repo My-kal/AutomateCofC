@@ -22,8 +22,8 @@ $ pip install requests
 2. Edit `userinfo.json`
 3. Configure gmail account
 
-The script checks every 5 minutes. To change, 
-edit: `scheduler.add_job(main, 'interval', minutes=5)`
+The script checks every 25 minutes. To change, 
+edit: `scheduler.add_job(main, 'interval', minutes=25)`
 
 ##License
 AutomateCofC is licensed under the MIT license.
