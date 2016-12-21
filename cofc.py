@@ -1,8 +1,8 @@
 """
 CofC.py
-author: Mykal Burris | burrisms@g.cofc.edu
+author: Mykal Burris | <mykalburris@gmail.com>
 created: 14-Nov-2016
-updated: 08-Dec-2016
+updated: 21-Dec-2016
 version: 1
 """
 
@@ -129,5 +129,5 @@ def main():
             print(e)
             
 scheduler = BlockingScheduler()
-scheduler.add_job(main, 'interval', minutes=5)
+scheduler.add_job(main, 'interval', minutes=25)
 scheduler.start()
