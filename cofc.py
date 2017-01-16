@@ -31,7 +31,7 @@ def main():
     base_url = 'https://ssb.cofc.edu:9710'
     session = requests.Session()
     session.headers.update({
-        'User-Agent': 'User-Agent	Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) '
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_5) '
         'AppleWebKit/601.6.17 (KHTML, like Gecko) Version/9.1.1 Safari/601.6.17',
         'Referer': 'https://www.google.com/',
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
