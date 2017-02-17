@@ -1,6 +1,6 @@
 """
 CofC.py
-author: Mykal Burris | <mykalburris@gmail.com>
+author: Mykal | <devmykal@protonmail.com>
 created: 14-Nov-2016
 updated: 21-Dec-2016
 version: 1
